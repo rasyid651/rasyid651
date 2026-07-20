@@ -67,8 +67,8 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rasyid651&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyid651&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rasyid651&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyid651&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
