@@ -16,7 +16,6 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 - 🎨 UI/UX Designer with a focus on user-centered design.
 - 💻 Web Developer who enjoys building responsive and interactive websites.
 - 📱 Interested in Front-End Development and modern web technologies.
-- 🌱 Currently learning **React JS** and improving my web development skills.
 - 🚀 Always exploring new design trends and development workflows.
 
 ---
