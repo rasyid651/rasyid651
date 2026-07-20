@@ -66,10 +66,10 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 
 ## 📈 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyid651&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyid651&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</p>](https://github-readme-stats-sigma-five.vercel.app/api?username=rasyid651&show_icons=true&theme=tokyonight)
 
 ---
 
