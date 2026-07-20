@@ -77,7 +77,7 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/muhammadalrasyid" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -85,7 +85,7 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muhammadalrasyid789@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
