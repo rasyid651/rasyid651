@@ -75,9 +75,8 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="www.linkedin.com/in/muhammadalrasyid" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/muhammadalrasyid/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
 <a href="https://rasyid-ux.vercel.app" target="_blank">
