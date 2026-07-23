@@ -83,7 +83,7 @@ I enjoy transforming ideas into modern, functional, and user-friendly digital pr
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:muhammadalrasyid789@gmail.com">
+<a href="mailto:muhammadalrasyid789@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
